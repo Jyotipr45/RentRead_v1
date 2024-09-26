@@ -4,7 +4,7 @@
 ## Overview
 Rent Read is a `Spring Boot-based` web application designed for users to rent and return books online easily. The application features user `authentication, role-based access control, and a RESTful API` for managing books. This project allows users to interact with a library system from anywhere.
 
-![Library Image](https://cdn.pixabay.com/photo/2020/05/23/20/08/books-5211309_1280.jpg)
+![Library Image](https://pixabay.com/get/gf7733561c119c8d83e971a21063f34c69758a831bb94945f59df83a4fb77864834423ad6be6b644385fe59422c9e1d988315163e69551ea04319c6377b5d2b27_1280.jpg)
 
 ## Tech Stack
 
